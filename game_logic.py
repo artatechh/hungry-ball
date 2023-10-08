@@ -3,7 +3,7 @@ import pygame
 import random
 import sys
 import time
-import copy 
+
 pygame.init()
 pygame.display.set_caption("hungry ball")
 
